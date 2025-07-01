@@ -15,11 +15,13 @@ export class CardComponent {
 
   constructor(private dialog: MatDialog) {}
 
+
   openCardModal() {
+    const { projectLink, ...cardWithoutprojectLink } = this.card;
     this.dialog.open(ModalComponent, {
       width: '800px',
       data: {
-        card: this.card
+        card: cardWithoutprojectLink
       }
     });
   }

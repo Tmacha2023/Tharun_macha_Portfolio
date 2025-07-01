@@ -40,10 +40,11 @@ export class Tag {
     static readonly PYDANTIC = new Tag('Pydantic', '##4a6a77');
     static readonly GOLANG = new Tag('Golang', '#457189');
     static readonly RABBITMQ = new Tag('RabbitMQ', '#457189' )
-
-
-
-
+    static readonly JWT = new Tag('JWT', '#355158');
+    static readonly DJANGO = new Tag('Rest DJANGO', '#355158');
+    static readonly CELERY = new Tag('CELERY', '#355158');
+    static readonly MONGODB = new Tag('MONGODB', '#355158');
+    static readonly REDIS = new Tag('REDIS', '#355158');
 
 
     private constructor(private readonly key: string, public readonly color: string) {

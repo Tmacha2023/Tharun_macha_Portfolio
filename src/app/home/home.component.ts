@@ -18,11 +18,11 @@ export class HomeComponent implements OnInit {
 
   dynamicText: string = "";
   phrases: string[] =[
+    "Fullstack Developer.",
     "Team Player.",
     "Software Developer.",
     "Backend Engineer.",
     "Software Engineer.",
-    "Fullstack Developer.",
     "Code Enthusiast.",
   ];
 
