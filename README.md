@@ -1,22 +1,13 @@
 # BC | Angular Portfolio App
 
-This is my personal portfolio website built with **Angular 19**, Typescript, HTML5, CSS3, Bootstrap, Bootstrap Icons, RxJS, Vite, Angular Material and tests in Jasmine. It's currently deployed on the web: [https://angular-portfolio-app-omega.vercel.app/](https://angular-portfolio-app-omega.vercel.app/)
-
-![Barbara Calderon's Angular Portfolio App](portfolio.png)
-
-This project was originally generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7 and then upgraded to version 19.2.7 on April 2025. Check [version history](#version-history) for more information.
-
-_This project's last tag for Angular 17 was tag v1.3.0, you can download and use the portfolio in this version still._
-
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+This is my personal portfolio website built with **Angular 19**, Typescript, HTML5, CSS3, Bootstrap, Bootstrap Icons, RxJS, Vite, Angular Material and tests in Jasmine.
 
 ## Author
 
-I'm Barbara Calderon, a software developer.
+I'm Tharun Macha, a software developer.
 
-- [Github](https://www.github.com/barbaracalderon)
-- [Linkedin](https://www.linkedin.com/in/barbaracalderondev/?locale=en_US)
-- [Twitter](https://www.x.com/bederoni)
+- [Github](https://www.github.com/Tmacha2023)
+- [Linkedin](www.linkedin.com/in/tharun-macha-b65899297)
 
 ## The Project
 
@@ -72,14 +63,3 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 This portfolio was designed and developed by myself, Barbara Calderon, using frontend software skills for a dynamic and responsive web application.
 
-## Version History
-
-| Version | Date       | Description                                      |
-|---------|------------|--------------------------------------------------|
-| [2.0.0](https://github.com/barbaracalderon/angular-portfolio-app/releases/tag/v2.0.0)   | Apr 2025   | `!breaking changes` Upgrade Angular v17 to v19. Replace "accordion" with "expansion". Replace "carousel" with "swiper". Remove ngx-bootstrap lib. Refactor breaking code. Update tests with Jasmine framework.|
-| [1.3.0](https://github.com/barbaracalderon/angular-portfolio-app/releases/tag/v1.3.0)   | Mar 2025   | Added "forecast-cli" project to portfolio.|
-| [1.2.0](https://github.com/barbaracalderon/angular-portfolio-app/releases/tag/v1.2.0)   | Feb 2025   | Added 5 projects to portfolio. Resolved Vite overlay issue.|
-| [1.1.1](https://github.com/barbaracalderon/angular-portfolio-app/releases/tag/v1.1.1)   | Jan 2025   | Updated content on about me page. Resolved issues with dependencies alerts by upgrading.|
-| [1.1.0](https://github.com/barbaracalderon/angular-portfolio-app/releases/tag/v1.1.0)   | Jan 2025   | Updated content on home and about me pages. Fixed window width issues. Carousel anchor tags no longer green style. Resolved issue with carousel indicators not displaying. Added license.|
-| 1.0.1   | Jun 2024   | Added more projects to the portfolio page.       |
-| 1.0.0   | May 2024   | Initial release of the portfolio.                |
